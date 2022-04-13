@@ -52,6 +52,8 @@ The Syncfusion's Blazor components library offers over 70 UI components to work 
 
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-card-github-samples)
 
+### About Syncfusion Blazor Components
+The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Card, we provide popular Blazor Components such as DataGrid, Chart, Scheduler, Diagram and Word Processor.
 
 ### About Syncfusion
 
