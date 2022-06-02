@@ -38,7 +38,7 @@ This is a commercial product and requires a paid license for possession or use. 
 
 [Documentation](https://blazor.syncfusion.com/documentation/card/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-card-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/card/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-card-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/create-blazor-card-component-in-blazor-webassembly-app?utm_source=github&utm_medium=listing&utm_campaign=blazor-card-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-card-github-samples)
 
