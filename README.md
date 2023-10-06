@@ -1,13 +1,17 @@
 # Create Blazor Card Component In Blazor Webassembly App
+
 The [Blazor Card](https://www.syncfusion.com/blazor-components/blazor-card?utm_source=github&utm_medium=listing&utm_campaign=blazor-card-github-samples) is a container-based user interface (UI) control built using HTML5/CSS3 markup and styles for displaying organized content. A quick start Blazor WebAssembly app that allows you to configure the Blazor Card component from Syncfusion with its available options. This project contains simple code customizations, depicting how to add header, content, image, horizontal card, and action buttons to the Card component.
 
-## Project prerequisites
+## Prerequisites
 
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK 3.1.3 in your machine before starting to work on this project.
+* Visual Studio 2022
 
-## How to run this application?
+## How to run the project
 
-To run this application, you need to first clone the `create-blazor-card-component-in-blazor-webassembly-app` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and Benefits
 
